@@ -1,7 +1,7 @@
 # Tic-tac-toe
 
 A small web based version of the popular game Tic-tac-toe.
-Which uses vanilla HTML, CSS and JavaScrip.
+Which uses vanilla HTML, CSS and JavaScript.
 
 ## Screenshots
 
