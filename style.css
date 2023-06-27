@@ -1,0 +1,27 @@
+#gameField {
+    background-color: seashell;
+    display: grid;
+    grid-template-columns: repeat(3, 20vh);
+    grid-template-rows: repeat(3, 20vh);
+    width: 60vh;
+    margin: auto;
+}
+div {
+    border: 1px solid black;
+}
+div div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20vh;
+}
+h1 {
+    text-align: center;
+    font-size: 5vh;
+}
+#win {
+    color: green;
+}
+#draw {
+    color: red;
+}
