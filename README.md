@@ -9,5 +9,4 @@ Which uses vanilla HTML, CSS and JavaScript.
 ![](x-wins.png)
 ![](draw.png)
 
-**Futher reading**
-To read more about [Tic-tac-toe - Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
+To read more about Tic-tac-toe [Tic-tac-toe - Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
